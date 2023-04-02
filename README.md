@@ -2,8 +2,6 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT)
 [![GitHub release](https://img.shields.io/github/release/vliegenthart/coner_document_analyser.svg)](https://github.com/vliegenthart/coner_document_analyser/releases)
 
-## WARNING: This repository is no longer maintained
-
 CDA generates a candidate set of publications to receive feedback on in CIDV, by analysing publications from the corpus and rank them according to features like number of times paper has been cited, number of distinct automatically extracted entities for each category and availability of PDF.
 
 ## Coner Collaborative NER Pipeline
